@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GirdharVashistha
-- 👀 I’m interested in app devloper
+- 👀 I’m interested in developing apps.
 - 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me girdhargopalcse@gmail.com
