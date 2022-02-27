@@ -2,7 +2,7 @@
 - 👀 I’m interested in developing apps.
 - 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on coding
-- 📫 How to reach me girdhargopalcse@gmail.com
+- 📫 Reach me at girdhargopalcse@gmail.com
 
 <!---
 GirdharVashistha/GirdharVashistha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
